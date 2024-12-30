@@ -1,0 +1,97 @@
+Privacy Policy for Camera Usage 
+
+1. Introduction 
+
+At Sidmach Technologies Nigeria Limited, your privacy is of utmost importance to us. This privacy policy outlines how we collect, use, and protect your information when using our application, which requires access to your device’s camera. 
+
+ 
+
+2. Purpose of Camera Access 
+
+Our application accesses your camera solely for the following purpose: 
+
+QR Code Scanning: To enable efficient and accurate QR code reading within the application. 
+
+ 
+
+3. Data Handling and Protection:  
+
+3.1 Data Retention 
+
+We retain your information only as long as necessary to achieve the purposes outlined in this policy. 
+
+No images or video are stored permanently. 
+
+Camera data is processed momentarily and exclusively for the intended purpose. 
+
+No camera-related information is transmitted to external servers. 
+
+ 
+
+3.2 Privacy Safeguards 
+
+Camera access is temporary and purpose-specific. 
+
+The app does not operate camera functions in the background. 
+
+Users maintain full control over camera permissions at all times. 
+
+ 
+
+4. User Permissions and Control 
+
+Camera access requires explicit user consent. 
+
+Users can manage camera access through their device settings. 
+
+Revoking camera permissions may limit specific functionalities of the app. 
+
+ 
+
+5. Data Security  
+
+We employ industry-standard security measures to protect your information from unauthorized access, alteration, disclosure, or destruction. These measures include encryption, secure data storage, and regular security assessments. 
+
+ 
+
+6.  Sharing Your Information 
+
+We do not share camera-related data with third parties except under the following circumstances: 
+
+With Your Consent: Data may be shared with third parties only with your explicit permission. 
+
+Legal Requirements: Information may be disclosed to comply with legal obligations or to protect our rights. 
+
+ 
+
+7. Compliance and Standards 
+
+Our camera usage policy adheres to: 
+
+Mobile platform guidelines (e.g., Android, iOS) 
+
+Applicable data protection regulations (e.g., GDPR, NDPR) 
+
+Best practices for user privacy 
+
+ 
+
+8. Policy Updates 
+
+We reserve the right to update this Privacy Policy as needed. Updates will be communicated through notifications or by publishing the revised policy within the app. We encourage users to review this policy periodically. 
+
+ 
+
+9. Contact Information 
+
+For questions, concerns, or additional information regarding this Privacy Policy, please contact us: 
+
+Email: corporate@sidmach.com 
+
+Phone: +2349087197603-4 
+
+ 
+
+Last Updated: December 2024 
+
+ 
